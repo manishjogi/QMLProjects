@@ -1,5 +1,0 @@
-module firstQML
-typeinfo appfirstQML.qmltypes
-prefer :/qt/qml/firstQML/
-Main 1.0 Main.qml
-

@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/firstQML/">
-    <file alias="Main.qml">C:/Users/gsman/OneDrive/Documents/QT/Projects/firstQML/Main.qml</file>
-  </qresource>
-</RCC>
-
